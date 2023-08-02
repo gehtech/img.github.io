@@ -54,8 +54,11 @@ a:hover {
 .pr > .d1 {
     color: white;
     padding: 8px;
-    margin-bottom: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     text-align: center;
+    margin-bottom: 50px;
     border-radius: 25px 5px 25px 5px;
     background-color: #4d0491;
 }
@@ -63,6 +66,9 @@ a:hover {
 .pr > .d2 {
     color: white;
     padding: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     text-align: center;
     border-radius: 5px 25px 5px 25px;
     background-color: #4d0491;
