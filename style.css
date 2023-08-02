@@ -88,6 +88,14 @@ footer > p {
 }
 
 @media (max-width: 320px){
+
+    .pr {
+        disply: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-contente: center;
+    }
+    
     nav{
         display: flex;
         align-items: center;
