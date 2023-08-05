@@ -98,7 +98,13 @@ footer > p {
     padding: 8px;
 }
 
-@media (max-width: 320px){
+@media (max-width: 320px) {
+    nav{
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
 
     .pr {
         disply: flex;
@@ -127,11 +133,5 @@ footer > p {
         border-radius: 5px 25px 5px 25px;
         background-color: #4d0491;
         flex-direcion: column;
-    }
-    
-    nav{
-        display: flex;
-        align-items: center;
-        justify-content: center;
     }
 }
