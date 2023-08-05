@@ -102,7 +102,6 @@ footer > p {
 
     .pr {
         disply: flex;
-        align-items: center;
         flex-direction: column;
         justify-contente: center;
     }
@@ -111,7 +110,6 @@ footer > p {
         color: white;
         padding: 8px;
         display: flex;
-        align-items: center;
         justify-content: center;
         text-align: center;
         margin-bottom: 50px;
@@ -124,7 +122,6 @@ footer > p {
         color: white;
         padding: 8px;
         display: flex;
-        align-items: center;
         justify-content: center;
         text-align: center;
         border-radius: 5px 25px 5px 25px;
