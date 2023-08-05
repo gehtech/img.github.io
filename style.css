@@ -62,6 +62,7 @@ a:hover {
     margin-bottom: 50px;
     border-radius: 25px 5px 25px 5px;
     background-color: #4d0491;
+    flex-direcion: column;
 }
 
 .pr > .d2 {
@@ -73,6 +74,7 @@ a:hover {
     text-align: center;
     border-radius: 5px 25px 5px 25px;
     background-color: #4d0491;
+    flex-direcion: column;
 }
 
 img {
